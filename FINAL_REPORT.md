@@ -121,7 +121,7 @@
 - Про AstronomyAPI: `ASTRONOMY_API_STATUS.md`, `ASTRONOMY_API_FIX.md`
 
 ## 8. Скриншоты (в каталоге `screenshots/`)
-- `screenshots\dashboard.png` — главный дашборд (ISS карта, скорость/высота, JWST, события).
-`C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\osdr.png` — список и детали OSDR.
-- `C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\image.png` — CMS-блоки и динамический контент.
+- (screenshots\dashboard.png — главный дашборд (ISS карта, скорость/высота, JWST, события).
+C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\osdr.png — список и детали OSDR.
+- C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\image.png — CMS-блоки и динамический контент.
 При необходимости обновите/добавьте актуальные скрины в эту директорию.
