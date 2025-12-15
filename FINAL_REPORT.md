@@ -78,9 +78,19 @@ he-path-of-the-samurai/
 - Остановка: `docker-compose stop` / `docker-compose down` / полная очистка `docker-compose down -v`.
 - Пересборка: `docker-compose up -d --build` или точечно `docker-compose build rust_iss && docker-compose up -d rust_iss`.
 
-## 10. Скриншоты (каталог `screenshots/`)
-- ![Dashboard](screenshots/dashboard.png) — карта ISS, скорость/высота, JWST, события.
-- ![OSDR](screenshots/osdr.png) — список и детали OSDR.
-- ![CMS](screenshots/cms.png) — CMS-блоки и динамический контент.
+## 9. Скриншоты (каталог `screenshots/`)
+- `dashboard.png` — главный дашборд (ISS карта, скорость/высота, JWST, события).
+- `osdr.png` — список и детали OSDR.
+- `cms.png` — CMS-блоки и динамический контент.
+- При необходимости обновите/добавьте актуальные скрины в эту директорию.
 
+## 10. Где почитать детали
+- Рефакторинг: `REFACTORING_REPORT.md`
+- Фиксы дашборда: `DASHBOARD_FIXES.md`
+- Про AstronomyAPI: `ASTRONOMY_API_STATUS.md`, `ASTRONOMY_API_FIX.md`
 
+## 8. Скриншоты (в каталоге `screenshots/`)
+- `C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\dashboard.png` — главный дашборд (ISS карта, скорость/высота, JWST, события).
+`C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\osdr.png` — список и детали OSDR.
+- `C:\Users\shved\Desktop\refuck\forth\he-path-of-the-samurai\screenshots\image.png` — CMS-блоки и динамический контент.
+При необходимости обновите/добавьте актуальные скрины в эту директорию.
